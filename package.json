@@ -1,0 +1,22 @@
+{
+  "name": "tutorial-nodejs-p-p2",
+  "version": "1.0.0",
+  "description": "NodeJS Tutorial Part 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tranvanphuong/tutorial-NodeJS-P-P2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tranvanphuong/tutorial-NodeJS-P-P2/issues"
+  },
+  "homepage": "https://github.com/Tranvanphuong/tutorial-NodeJS-P-P2#readme",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}
