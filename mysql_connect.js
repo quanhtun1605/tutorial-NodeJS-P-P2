@@ -12,7 +12,7 @@ con.connect(function(err){
     console.log("Loi roi em oi");
     return;
   }
-    console.log("OK. Successful");
+  console.log("OK. Successful deens database");
 });
 
 module.exports = con;
